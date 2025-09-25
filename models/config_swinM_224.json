@@ -1,0 +1,10 @@
+{
+    "ckpt": "",
+    "vision_width": 384,
+    "image_res": 224,
+    "window_size": 7,
+    "embed_dim": 96,
+    "depths": [ 2, 2, 2],
+    "num_heads": [ 3, 6, 12 ]
+  }
+
