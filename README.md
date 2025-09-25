@@ -62,7 +62,7 @@ mamba-ssm==2.2.1
 
 **Step 1. Download pretrained models**
 
-Download the pretrained models from [[Google Drive](https://drive.google.com/file/d/1bH1qR-T7XoTUMzVZlQyfMKFZQ6lb9NmT/view?usp=sharing)] and place them in the `./weights` directory.
+Download the pretrained models from [[Google Drive](https://drive.google.com/file/d/1OfYywmGNAlolHcsZQpDS_xUG_BpWEZ85/view?usp=sharing)] and place them in the `./weights` directory.
 
 **Step 2. Prepare your data**
 
