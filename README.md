@@ -2,7 +2,7 @@
 
 # Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing (CVPR 2025)
 
-This repository contains the official PyTorch implementation for the paper: "[Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing](https://arxiv.org/abs/2403.16134)" accepted at CVPR 2025.
+This repository contains the official PyTorch implementation for the paper: "[Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing](https://arxiv.org/abs/2503.16134)" accepted at CVPR 2025.
 
 Our work, BMTNet, introduces a lightweight Mamba-based binary neural network for efficient and high-performance demosaicing of HybridEVS RAW images. We propose a hybrid Binarized Mamba-Transformer architecture to effectively capture both global and local dependencies.
 
