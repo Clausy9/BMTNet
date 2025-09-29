@@ -62,7 +62,7 @@ mamba-ssm==2.2.1
 
 **Step 1. Download pretrained models**
 
-Download the pretrained models from [[Google Drive](https://drive.google.com/file/d/1OfYywmGNAlolHcsZQpDS_xUG_BpWEZ85/view?usp=sharing)] and place them in the `./weights` directory.
+Download the pretrained models from [[Google Drive](https://drive.google.com/file/d/1bn7Pxt05H2bJd3MFVB600_UXbkECq9pg/view?usp=sharing)] and place them in the `./weights` directory.
 
 **Step 2. Prepare your data**
 
@@ -77,5 +77,6 @@ python test.py --input_path ./input --weights_path ./weights/bmtnet_model_latest
 ```
 
 You can adjust the input and output paths as needed.
+
 
 
